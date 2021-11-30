@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# reset styles
+RESET='\e[0m'
+
+# text styles
+BOLD='\e[1m'
+NOT_BOLD='\e[21m'
+FAINT='\e[2m'
+NOT_FAINT='\e[22m'
+UNDERLINED='\e[4m'
+NOT_UNDERLINED='\e[24m'
+BLINKING='\e[5m'
+NOT_BLINKING='\e[25m'
+INVERTED='\e[7m'
+NOT_INVERTED='\e[27m'

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PS1="\[$BOLD$BG_RED$FG_BLACK\][\u\[$FG_WHITE\]@\[$FG_BLACK\]\h\[$FG_WHITE\] => \[$FG_BLACK\]\W]\[$RESET\] "
+PS2="\[$BOLD$FG_RED\]>>>\[$RESET\] "
+PS4="\[$BOLD$FG_RED\]+\[$RESET\] "
