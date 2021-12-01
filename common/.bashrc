@@ -39,9 +39,6 @@ fi
 alias sio-login='ssh -i ~/.ssh/focus.pem ubuntu@stonebraker.io'
 alias aw-login='ssh -i ~/.ssh/focus.pem ubuntu@abolishwages.com'
 
-# discord
-alias discord='/usr/src/Discord/Discord'
-
 # add useful variables
 if [ -f ~/.config/bash/colors ]; then
     source ~/.config/bash/colors
