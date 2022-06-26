@@ -1,2 +1,2 @@
 # dotfiles
-All my dotfiles.
+All my dotfiles. I'm a minimalist.
